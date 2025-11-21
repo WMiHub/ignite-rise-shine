@@ -33,3 +33,22 @@ body {
     border-radius: 8px;
     text-decoration: none;
 }
+.mission {
+    background: #ffffff;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.mission h2 {
+    font-size: 28px;
+    color: #0fa958;
+    margin-bottom: 20px;
+}
+
+.mission p {
+    font-size: 18px;
+    color: #333;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
